@@ -1,0 +1,6 @@
+[book]
+authors = ["qqkkwan"]
+language = "cn"
+multilingual = false
+src = "src"
+title = "Rust从入门到精通"
